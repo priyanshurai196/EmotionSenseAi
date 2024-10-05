@@ -1,0 +1,8 @@
+# Compiled source #
+###################
+*.class
+*.exe
+
+# Packages #
+.venv/
+venv/
